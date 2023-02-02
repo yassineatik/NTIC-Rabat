@@ -27,7 +27,7 @@ The current website of the institute contains lots of negative feedback from the
 - The website design is old and very cringy.
 - Some sections are not responsive.
 - The stagiaire can’t have any information about the Schedule Changements except if he enters the website manually.
-- He can’t put demands of papers to the administration without waiting for a fucking long queue that could take hours just to speak to Khadija and in the end, she tells him to come a week later.
+- He can’t put demands of papers to the administration without waiting for a long queue that could take hours just to speak to the administrator and in the end, she tells him to come a week later.
 - He can’t access a forum for the institute that the other students consult to talk to each other and ask questions about any problem or inquiry.
 
 ## ✅ Solution
